@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+#right{
+	
+	text-align: right;
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+	font-weight:bold;
+	margin-right: 350px;
+	font-size: 12pt;
+	float: right;
+}
+
+#rightcontent{
+	margin-right: 60px;
+	font-size: 12pt;
+}
+
+#rightTable{
+	
+	margin-right: 70px;
+
+}
+
+table{
+	text-align: center;
+	font-size: 12pt;
+	
+}
+
+h1{
+	margin-left: 30px;
+}
+
+h2{
+	margin-left: 1430px;
+}
+
+#left{
+	margin-left: 100px;
+	float: left;
+	margin-top: 30px;
+}
+#time{
+	text-align: right;
+	margin-right: 50px;
+	font-weight: bold;
+	font-size: 16pt;
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+	float: right;
+	margin-top: 70px;
+}
